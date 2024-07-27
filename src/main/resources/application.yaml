@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simcardactivator
+
+variables:
+  actuator-url: http://localhost:8444/actuate
